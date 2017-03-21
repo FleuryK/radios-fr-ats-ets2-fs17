@@ -57,7 +57,7 @@ live_stream_def : _nameless.0354.3488 {
  stream_data[52]: "http://radiofg.impek.com/fg|Radio FG|Dance|FR|128|0"
  stream_data[53]: "http://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3|Voltage|Hits|FR|128|0"
  stream_data[54]: "http://92.222.92.117:8080/remzouilleradio:128|Remzouille Radio|Hits|FR|128|0"
- stream_data[55]: "http://cfm-stream.hugoprod74.fr:8000/nowradio-128.mp3|Now Radio|Hits|FR|128|0"
+ stream_data[55]: "http://37.187.146.140:8601/nowradio_mp3-112|Now Radio|Hits|FR|112|0"
  stream_data[56]: "http://purefm.ice.rtbf.be/purefm-128.mp3|Pure FM|Other|FR|128|0"
  stream_data[57]: "http://ice1.impek.com:80/futuradiosdance-128|Futuradios Dance|Dance|FR|128|0"
  stream_data[58]: "http://ice1.impek.com:80/futuradios-128|Futuradios|Hits|FR|128|0"
