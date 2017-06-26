@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.0354.3488 {
- stream_data: 80
+ stream_data: 83
  stream_data[0]: "http://chai5she.cdn.dvmr.fr/franceinter-midfi.mp3|France Inter|Spoken|FR|128|0"
  stream_data[1]: "http://chai5she.cdn.dvmr.fr/fb1071-midfi.mp3|France Bleu 107.1|Spoken|FR|128|0"
  stream_data[2]: "http://rmc.bfmtv.com/rmcinfo-mp3|RMC|Spoken|FR|64|0"
@@ -82,6 +82,9 @@ live_stream_def : _nameless.0354.3488 {
  stream_data[77]: "http://mp3channels.webradio.antenne.de/weihnachts-hits|Antenne Bayern Weihnachts Hits|Other|DE|128|0"
  stream_data[78]: "http://mp3channels.webradio.antenne.de/workout-hits|Antenne Bayern Workout|Other|DE|128|0"
  stream_data[79]: "http://mp3channels.webradio.antenne.de/event|Das Antenne Bayern 'Event' Radio|Other|DE|128|0"
+ stream_data[80]: "http://mediaming.streamakaci.com/sanef107_7_OUEST.mp3|SANEF 107.7 Reseau Ouest|Talk|FR|128|0"
+ stream_data[81]: "http://mediaming.streamakaci.com/sanef107_7_NORD.mp3|SANEF 107.7 Reseau Nord|Talk|FR|128|0"
+ stream_data[82]: "http://mediaming.streamakaci.com/sanef107_7_EST.mp3|SANEF 107.7 Reseau Est|Talk|FR|128|0"
 }
 
 }

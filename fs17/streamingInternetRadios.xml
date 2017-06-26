@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 
 <streamingInternetRadios>
+	 <!--streamingInternetRadio href="http://www.please-edit-this-01.com/stream.m3u" /-->
+	 <!--streamingInternetRadio href="http://www.please-edit-this-02.com/stream.m3u" /-->
+	 <!--streamingInternetRadio href="http://www.please-edit-this-03.com/stream.m3u" /-->
 	 <streamingInternetRadio href="http://chai5she.cdn.dvmr.fr/franceinter-midfi.mp3" />
 	 <streamingInternetRadio href="http://chai5she.cdn.dvmr.fr/fb1071-midfi.mp3" />
 	 <streamingInternetRadio href="http://rmc.bfmtv.com/rmcinfo-mp3" />
@@ -81,4 +84,7 @@
 	 <streamingInternetRadio href="http://mp3channels.webradio.antenne.de/weihnachts-hits" />
 	 <streamingInternetRadio href="http://mp3channels.webradio.antenne.de/workout-hits" />
 	 <streamingInternetRadio href="http://mp3channels.webradio.antenne.de/event" />
+	 <streamingInternetRadio href="http://mediaming.streamakaci.com/sanef107_7_OUEST.mp3" />
+	 <streamingInternetRadio href="http://mediaming.streamakaci.com/sanef107_7_NORD.mp3" />
+	 <streamingInternetRadio href="http://mediaming.streamakaci.com/sanef107_7_EST.mp3" />
 </streamingInternetRadios>
