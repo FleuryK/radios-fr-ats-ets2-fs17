@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.19e.b5bf.4970 {
- stream_data: 384
+ stream_data: 385
  stream_data[0]: "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios|Cherie|Oldies|FR|128|0"
  stream_data[1]: "http://broadcast.infomaniac.ch/cheriefm-lesgets-128.mp3|Cherie Les Gets (Haute-Savoie)|Oldies|FR|128|0"
  stream_data[2]: "http://cdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=fluxradios|Cherie 80s|80s|FR|128|0"
@@ -192,7 +192,7 @@ live_stream_def : _nameless.19e.b5bf.4970 {
  stream_data[187]: "http://broadcast.infomaniak.ch/radioscoop-annees90-128.mp3|Radio Scoop Annees 90|90s|FR|128|0"
  stream_data[188]: "http://broadcast.infomaniak.ch/radioscoop-annees2000-128.mp3|Radio Scoop Annees 2000|2000s|FR|128|0"
  stream_data[189]: "http://broadcast.infomaniak.ch/radioscoop-annees2010-128.mp3|Radio Scoop Annees 2010|2010s|FR|128|0"
- stream_data[190]: "http://stream.radioscoop.com/scoop6.mp3|Radio Scoop Asse|2010s|FR|128|0"
+ stream_data[190]: "http://stream.radioscoop.com/scoop6.mp3|Radio Scoop Asse|Other|FR|128|0"
  stream_data[191]: "http://stream.radioscoop.com/scoop12.mp3|Radio Scoop Cine|Other|FR|128|0"
  stream_data[192]: "http://stream.radioscoop.com/scoop8.mp3|Radio Scoop Gold|Other|FR|128|0"
  stream_data[193]: "http://broadcast.infomaniak.ch/radioscoop-jazzy-128.mp3|Radio Scoop Jazzy|Jazz|FR|128|0"
@@ -386,6 +386,7 @@ live_stream_def : _nameless.19e.b5bf.4970 {
  stream_data[381]: "http://mp3channels.webradio.antenne.de/top-40|Antenne Bayern Top 40|Other|DE|128|0"
  stream_data[382]: "http://mp3channels.webradio.antenne.de/weihnachts-hits|Antenne Bayern Weihnachts Hits|Other|DE|128|0"
  stream_data[383]: "http://mp3channels.webradio.antenne.de/workout-hits|Antenne Bayern Workout Hits|Other|DE|128|0"
+ stream_data[384]: "http://stream.megaradio.pro/MegaRadio|Mega Radio|Other|RU|128|0"
 }
 
 }
