@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.19e.b5bf.4970 {
- stream_data: 433
+ stream_data: 432
  stream_data[0]: "https://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios|Cherie FM|Oldies|FR|128|0"
  stream_data[1]: "http://broadcast.infomaniac.ch/cheriefm-lesgets-128.mp3|Cherie FM Les Gets (Haute-Savoie)|Oldies|FR|128|0"
  stream_data[2]: "http://cdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=fluxradios|Cherie 80s|80s|FR|128|0"
@@ -427,14 +427,13 @@ live_stream_def : _nameless.19e.b5bf.4970 {
  stream_data[422]: "https://energy.ice.infomaniak.ch/energydeep-high.mp3|NRJ (Energy) Deep|Other|DE|128|0"
  stream_data[423]: "https://energy.ice.infomaniak.ch/energybalkanhits-high.mp3|NRJ (Energy) Balkan Hits|Other|DE|128|0"
  stream_data[424]: "https://energy.ice.infomaniak.ch/energyrap-high.mp3|NRJ (Energy) Rap|Rap|DE|128|0"
- stream_data[425]: "http://bb30.sonixcast.com:9764/stream|Asia Dream Radio - Japan Hits|Other|JP|128|0"
- stream_data[426]: "http://bb30.sonixcast.com:9628/stream|Asia Dream Radio - J-Pop Powerplay|Other|JP|128|0"
- stream_data[427]: "http://bb31.sonixcast.com:20002/stream|Asia Dream Radio - J-Pop Powerplay Kawaii|Other|JP|128|0"
- stream_data[428]: "http://bb31.sonixcast.com:20278/stream|Asia Dream Radio - J-Pop Sakura Natsukashii|Other|JP|128|0"
- stream_data[429]: "http://bb30.sonixcast.com:9508/stream|Asia Dream Radio - J-Rock Powerplay|Other|JP|128|0"
- stream_data[430]: "http://cc.sonixcast.com:8007/stream|Asia Dream Radio - J-Club Powerplay HipHop|Other|JP|128|0"
- stream_data[431]: "http://cc.sonixcast.com:8058/stream|Asia Dream Radio - J-Sakura Hara|Other|JP|128|0"
- stream_data[432]: "http://stream.megaradio.pro/MegaRadio|Mega Radio|Other|RU|128|0"
+ stream_data[425]: "http://bluford.torontocast.com:8526/stream|Asia Dream Radio - Japan Hits|Other|JP|128|0"
+ stream_data[426]: "http://agnes.torontocast.com:8102/stream|Asia Dream Radio - J-Pop Powerplay|Other|JP|128|0"
+ stream_data[427]: "http://sky1.torontocast.com:9029/stream|Asia Dream Radio - J-Pop Powerplay Kawaii|Other|JP|128|0"
+ stream_data[428]: "http://bluford.torontocast.com:8519/stream|Asia Dream Radio - J-Pop Sakura Natsukashii|Other|JP|128|0"
+ stream_data[429]: "http://cristina.torontocast.com:8057/stream|Asia Dream Radio - J-Rock Powerplay|Other|JP|128|0"
+ stream_data[430]: "http://agnes.torontocast.com:8051/stream|Asia Dream Radio - J-Club Powerplay HipHop|Other|JP|128|0"
+ stream_data[431]: "http://stream.megaradio.pro/MegaRadio|Mega Radio|Other|RU|128|0"
 }
 
 }
