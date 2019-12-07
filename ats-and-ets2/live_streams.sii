@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.19e.b5bf.4970 {
- stream_data: 432
+ stream_data: 433
  stream_data[0]: "https://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios|Cherie FM|Oldies|FR|128|0"
  stream_data[1]: "http://broadcast.infomaniac.ch/cheriefm-lesgets-128.mp3|Cherie FM Les Gets (Haute-Savoie)|Oldies|FR|128|0"
  stream_data[2]: "http://cdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=fluxradios|Cherie 80s|80s|FR|128|0"
@@ -79,7 +79,7 @@ live_stream_def : _nameless.19e.b5bf.4970 {
  stream_data[74]: "https://virageradio.ice.infomaniak.ch/virageradio-high.mp3|Virage Radio|Other|FR|128|0"
  stream_data[75]: "https://ais-live.cloud-services.paris:8443/virgin.mp3|Virgin Radio|Pop/Rock/Electro|FR|128|0"
  stream_data[76]: "https://voltage.ice.infomaniak.ch/start-voltage-high.mp3|Voltage (Ile-de-France & Picardie)|Hits|FR|128|0"
- stream_data[77]: "https://streaming.radionomy.com/bleudream-80|Bleu Dream 80 (France 80)|80s|FR|128|0"
+ stream_data[77]: "http://stream1.chantefrance.com/Chante_France|Chante France (Paris & Beauvais)|Other|FR|128|0"
  stream_data[78]: "http://icecast.pulsradio.com/magicradioHD.mp3|Puls Radio 80s|80s|FR|192|0"
  stream_data[79]: "http://icecast.pulsradio.com/puls90HD.mp3|Puls Radio 90s|90s|FR|192|0"
  stream_data[80]: "http://icecast.pulsradio.com/puls00HD.mp3|Puls Radio 2000|2000s|FR|192|0"
