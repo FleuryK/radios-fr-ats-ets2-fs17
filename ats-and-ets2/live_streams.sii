@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.19e.b5bf.4970 {
- stream_data: 478
+ stream_data: 479
  stream_data[0]: "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios|Cherie FM|Oldies|FR|128|0"
  stream_data[1]: "http://broadcast.infomaniak.com/cheriefm-lesgets-128.mp3|Cherie FM Les Gets (Haute-Savoie)|Oldies|FR|128|0"
  stream_data[2]: "http://cdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3?origine=fluxradios|Cherie 80s|80s|FR|128|0"
