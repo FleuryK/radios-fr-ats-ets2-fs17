@@ -38,7 +38,7 @@
 - 🇫🇷 Toulouse FM No French
 - 🇫🇷 Toulouse FM Numero 1 Latino
 - 🇫🇷 Urban Hit Love
-- 🇫🇷 Urban Hit Nouveaute
+- 🇫🇷 Urban Hit Nouveauté
 - 🇫🇷 Urban Hit Summer
 
 🖌️  Modified:
@@ -76,6 +76,7 @@
 - 🇫🇷 Voltige Radio: Updated address listen
 
 <br />
+
 # 2023/01/01 - Total number of radios : 505<br />
 
 ➖  Removed:
