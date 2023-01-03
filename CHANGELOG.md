@@ -1,3 +1,48 @@
+# 2023/01/01 - Total number of radios : 494<br />
+
+➖  Removed:
+- 🇺🇸 Plexus DanceFM (US, New York): Address listen doesn't compatible with game
+- 🇬🇧 Southern Sound Hospital Radio (UK, Glasgow): Address listen doesn't compatible with game
+- 🇫🇷 ABC Relax: Address listen doesn't compatible with game
+- 🇫🇷 Cerise FM Lounge: Address listen doesn't compatible with game
+- 🇫🇷 GXCat: Address listen doesn't compatible with game
+- 🇫🇷 Jordanne FM Aurillac: Address listen doesn't compatible with game 
+- 🇫🇷 Jordanne FM Corrèze: Address listen doesn't compatible with game
+- 🇫🇷 Jordanne FM Mauriac: Address listen doesn't compatible with game
+- 🇫🇷 Jordanne FM St-Flour: Address listen doesn't compatible with game
+- 🇫🇷 Max FM (Belgique): Address listen doesn't compatible with game
+- 🇫🇷 Radio Isa Gold: Address listen doesn't compatible with game
+- 🇫🇷 Radio Isa Hits: Address listen doesn't compatible with game
+- 🇫🇷 Radio Scoop Disco Funk: Address listen doesn't compatible with game
+- 🇫🇷 Remzouille Radio: Address listen doesn't compatible with game
+- 🇫🇷 Road FM: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock 100% Français: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock Abidjan: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock Hit Skyrock: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock Hit US: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock Klassiks: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock PLM (Pour Les Militaires): Address listen doesn't compatible with game
+- 🇫🇷 Skyrock Premier sur le Rap: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock Rap et RnB non-stop: Address listen doesn't compatible with game
+- 🇫🇷 Skyrock Urban Music non-stop: Address listen doesn't compatible with game
+- 🇫🇷 Sweet FM Évreux: Address listen doesn't compatible with game
+- 🇫🇷 Sweet FM Louviers et Vernon: Address listen doesn't compatible with game
+- 🇫🇷 Sweet FM Mamers: Address listen doesn't compatible with game
+- 🇫🇷 Toulouse FM Bodega: Address listen doesn't compatible with game
+- 🇫🇷 Toulouse FM Clubbing: Address listen doesn't compatible with game
+- 🇫🇷 Toulouse FM Grand Classic: Address listen doesn't compatible with game
+- 🇫🇷 Toulouse FM No French: Address listen doesn't compatible with game
+- 🇫🇷 Toulouse FM Numéro 1 Latino: Address listen doesn't compatible with game
+
+➕ Added:
+- 🇫🇷 Radio Scoop 90's: Address listen is now functionnal
+- 🇫🇷 Radio Isa Voiron: Address listen is now functionnal
+
+🟡 Waiting: Not deleted for a moment
+- 🇫🇷 Voltige Radio: Listen Out of Service
+
+<br />
+
 # 2023/01/02 - Total number of radios : 540<br />
 
 ➖  Removed:
