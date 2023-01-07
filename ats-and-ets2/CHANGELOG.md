@@ -1,4 +1,17 @@
-# 2023/01/03 - Total number of radios : 494<br />
+# 2023/01/07 - Total number of radios: 499<br />
+➕ Added:
+- 🇫🇷 Tendance Ouest 80's: Address listen is now functional
+- 🇫🇷 Tendance Ouest Club: Address listen is now functional
+- 🇫🇷 Tendance Ouest Pop/Rock: Address listen is now functional
+- 🇫🇷 Tendance Ouest Urban: Address listen is now functional
+- 🇨🇭 NRJ (Energy) St.Gallen
+
+🟢 Not removed:
+- 🇫🇷 Voltige Radio: Address listen is now functional
+
+<br />
+
+# 2023/01/03 - Total number of radios: 494<br />
 
 ➖  Removed:
 - 🇺🇸 Plexus DanceFM (US, New York): Address listen doesn't compatible with game
@@ -43,7 +56,7 @@
 
 <br />
 
-# 2023/01/02 - Total number of radios : 540<br />
+# 2023/01/02 - Total number of radios: 540<br />
 
 ➖  Removed:
 - 🇨🇭 NRJ (Energy) Balkan Hits: Listen Out of Service
@@ -122,7 +135,7 @@
 
 <br />
 
-# 2023/01/01 - Total number of radios : 505<br />
+# 2023/01/01 - Total number of radios: 505<br />
 
 ➖  Removed:
 - 🇫🇷 Tendance Ouest Pop Internationale: Radio no longer existing
@@ -150,3 +163,30 @@
 
 🖌️  Modified:
 - 🇫🇷 ABC Relax: Updated address listen
+
+<br />
+
+# 2022/03/20<br />
+🖌️  Modified:
+- 🇫🇷 All address listen radios for local F. HITS
+
+<br />
+
+# 2022/01/21<br />
+🖌️  Modified:
+- 🇫🇷 All address listen radios for local F. HITS because address listen proxy doesn't support with game
+
+<br />
+
+# 2022/01/20<br />
+➕ Added:
+- 🇫🇷 RPL
+- 🇫🇷 RPL Hits
+- 🇫🇷 Nova
+- 🇫🇷 Radio Tintouin
+
+<br />
+
+# 2022/01/19<br />
+🖌️  Modified:
+- 🇫🇷 Chérie FM Les Gets : Update address listen
