@@ -1,3 +1,13 @@
+# 2023/01/15 - Total number of radios: 501<br />
+➕ Added:
+- 🇫🇷 Kiss FM Cannes/Grasse/Antibes
+- 🇫🇷 Kiss FM Est/Centre Var
+
+🖌️  Modified:
+- 🇫🇷 Kiss FM St-Tropez/Monaco: Renamed to Kiss FM Nice
+
+<br />
+
 # 2023/01/07 - Total number of radios: 499<br />
 ➕ Added:
 - 🇫🇷 Tendance Ouest 80's: Address listen is now functional
