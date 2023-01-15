@@ -1,4 +1,4 @@
-# FR (Français/French)
+# :fr: (Français/French)
 # radios-fr-ats-ets2-fs17<br />
 Radios Françaises pour les jeux American Truck Simulator, Euro Truck Simulator 2 et Farming Simultor 2017.<br />
 
@@ -18,7 +18,7 @@ Ce fichier appelé <code>streamingInternetRadios.xml</code> est présent ici <co
 Lancer le jeu Farming Simulator 2017, vérifier si l'option "Radios" est sur "On". Appuyer sur 5 (celui au-dessus de la lettre T) et c'est parti ! (4 pour la précédente, 6 pour la suivante)<br /><br /><br />
 
 
-# EN (Anglais/English)
+# :uk: (Anglais/English)
 # radios-fr-ats-ets2-fs17<br />
 French Radios for games American Truck Simulator, Euro Truck Simulator 2 and Farming Simulator 2017.<br />
 
