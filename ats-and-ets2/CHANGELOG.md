@@ -1,3 +1,18 @@
+# 2023/01/16 - Total number of radios: 504<br />
+➕ Added:
+- 🇫🇷 Radio Vinci Autoroutes - Strasbourg - A355
+
+🖌️  Modified:
+- 🇫🇷 Radio Vinci Autoroutes: Renamed to Radio Vinci Autoroutes - Ouest Centre
+- 🇫🇷 Radio Vinci Autoroutes - ASF Atlantique: Renamed to Radio Vinci Autoroutes - Grand Ouest
+- 🇫🇷 Radio Vinci Autoroutes - ASF Est: Renamed to Radio Vinci Autoroutes - Auvergne Rhône Méditerranée
+- 🇫🇷 Radio Vinci Autoroutes - ASF Sud: Renamed to Radio Vinci Autoroutes - Languedoc Roussillon
+- 🇫🇷 Radio Vinci Autoroutes - ASF Sud-Ouest: Renamed to Radio Vinci Autoroutes - Sud-Ouest
+- 🇫🇷 Radio Vinci Autoroutes - Estcosta Est: Renamed to Radio Vinci Autoroutes - Côte-d'Azur
+- 🇫🇷 Radio Vinci Autoroutes - Estcosta Ouest: Renamed to Radio Vinci Autoroutes - Alpes Provence
+
+<br />
+
 # 2023/01/15 - Total number of radios: 503<br />
 ➕ Added:
 - 🇫🇷 Oxygène Meaux
