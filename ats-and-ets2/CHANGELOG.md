@@ -1,3 +1,16 @@
+# 2023/04/13 - Total number of radios: 468<br />
+➕ Added:
+- 🇯🇵 Asia Dream Radio - Jazz Sakura
+- 🇯🇵 Asia Dream Radio - J-Club Bandstand
+
+🖌️  Modified:
+- 🇫🇷 All link listen for F. HITS
+
+➖  Removed:
+- 🇩🇪 Good part webradios for Antenne Bayern because webradios change regularly
+
+<br />
+
 # 2023/01/16 - Total number of radios: 504<br />
 ➕ Added:
 - 🇫🇷 Radio Vinci Autoroutes - Strasbourg - A355
