@@ -4,7 +4,7 @@
 - 🇯🇵 Asia Dream Radio - J-Club Bandstand
 
 🖌️  Modified:
-- 🇫🇷 All link listen for F. HITS
+- 🇫🇷 All address listen for F. HITS
 
 ➖  Removed:
 - 🇩🇪 Good part webradios for Antenne Bayern because webradios change regularly
