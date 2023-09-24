@@ -1,3 +1,26 @@
+# 2023/09/24 - Total number of radios: 473<br />
+➕ Added:
+- 🇫🇷 Europe 2 90's
+- 🇫🇷 Europe 2 100% Français
+- 🇫🇷 Europe 2 Acoustic
+- 🇫🇷 Europe 2 Live
+- 🇫🇷 Europe 2 Millenium
+- 🇫🇷 Europe 2 Mix
+- 🇫🇷 Europe 2 Pop Rock
+- 🇫🇷 Europe 2 Slow
+
+🖌️  Modified:
+- 🇫🇷 Europe 2 Happy Rock Hours: Renamed to Europe 2 Friday Rock
+- 🇫🇷 Futuradios Rock: Renamed to Futuradios BandCamp
+- 🇫🇷 Futuradios: Renamed to Futuradios Hits
+
+➖  Removed:
+- 🇫🇷 Futuradios Dance
+- 🇫🇷 Futuradios Pop and Sweet
+- 🇫🇷 Futuradios Urban
+
+<br />
+
 # 2023/04/13 - Total number of radios: 468<br />
 ➕ Added:
 - 🇯🇵 Asia Dream Radio - Jazz Sakura
