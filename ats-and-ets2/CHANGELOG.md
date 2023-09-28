@@ -1,3 +1,12 @@
+# 2023/09/28 - Total number of radios: 472<br />
+🖌️  Modified:
+- 🇫🇷 Address listen for webradios HotMixRadio
+
+➖  Removed:
+- 🇫🇷 HotMixRadio Fiesta: Webradio no longer existing
+
+<br />
+
 # 2023/09/24 - Total number of radios: 473<br />
 ➕ Added:
 - 🇫🇷 Europe 2 90's
